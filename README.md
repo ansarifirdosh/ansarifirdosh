@@ -15,6 +15,6 @@
     <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">  
 </h2>
 
-[![Telegram Badge](https://img.shields.io/badge/-%7C%20@Abhi_Shake-blue?style=flat&logo=Telegram&logoColor=white&link=https://t.me/Abhi_Shake)](https://t.me/Abhi_Shake "Telegram")
-[![Email Badge](https://img.shields.io/badge/-%7C%20AbhionFire@protonmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:AbhionFire@protonmail.com)](mailto:AbhionFire@protonmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-%7C%20Abhi%20Shake-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhi-shake-9765a21b4/)](https://www.linkedin.com/in/abhi-shake-9765a21b4/ "Linkedin")
+[![Telegram Badge](https://img.shields.io/badge/-%7C%20@Firdosh-blue?style=flat&logo=Telegram&logoColor=white&link=https://t.me/ansarifirdosh)](https://t.me/ansarifirdosh "Telegram")
+[![Email Badge](https://img.shields.io/badge/-%7C%20ansarifirdosh123@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ansarifirdosh123@gmail.com)](mailto:AbhionFire@protonmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-%7C%20Firdosh%20Ansari-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/firdosh-a-b28a88220/)](https://www.linkedin.com/in/firdosh-a-b28a88220/ "Linkedin")
